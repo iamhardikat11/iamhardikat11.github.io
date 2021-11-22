@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Static Web Page </head>
+  </head>
+  <body>
+    <p>Secret Value is 314159</p>
+  </body>
+</html>
